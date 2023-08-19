@@ -36,7 +36,7 @@ OpenWrt 是一个用于嵌入式设备的 Linux 操作系统，主要特点：
 
 旁路由的模式就比较繁琐些，它还可以分为独臂路由、子路由等等情况，这里主要介绍常见的独臂路由情况。
 
-![少数派图片引用](https://cdn.sspai.com/2021/08/28/34271393ce691de113e6f3138ff369e1.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+<img src="https://cdn.sspai.com/2021/08/28/34271393ce691de113e6f3138ff369e1.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1" width="500" alt="少数派图片引用" align=center />
 
 独臂路由顾名思义只有一个网卡，它只能通过一根网线接入网络，那么如何让这个`杨过`牌路由器为我们设备提供网络支持呢？
 
