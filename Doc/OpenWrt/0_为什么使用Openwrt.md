@@ -1,5 +1,12 @@
 # 为什么使用 OpenWrt
 
+1. [为什么使用 OpenWrt](#为什么使用-openwrt)
+   1. [什么是 OpenWrt](#什么是-openwrt)
+   2. [OpenWrt 在家庭网络中的位置](#openwrt-在家庭网络中的位置)
+      1. [主路由模式](#主路由模式)
+      2. [旁路由](#旁路由)
+   3. [OpenWrt 版本](#openwrt-版本)
+
 ## 什么是 OpenWrt
 
 OpenWrt 是一个用于嵌入式设备的 Linux 操作系统，主要特点：

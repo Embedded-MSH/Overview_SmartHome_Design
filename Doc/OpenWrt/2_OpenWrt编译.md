@@ -1,5 +1,10 @@
 # OpenWrt 编译
 
+1. [OpenWrt 编译](#openwrt-编译)
+   1. [选型](#选型)
+   2. [编译](#编译)
+   3. [插件推荐](#插件推荐)
+
 ## 选型
 
 这里推荐使用 [LEAN LEDE](https://github.com/coolsnowwolf/lede) 仓库编译，编译稳定性很好并且很多针对国内网络环境的优化适配都很不错，并且 README 写的很清晰如何进行编译。
